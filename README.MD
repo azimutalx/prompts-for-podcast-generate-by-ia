@@ -1,7 +1,7 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="300"
+    src="./assets/banner1.png"
+    width="1250"
 />
 </p>
 
@@ -23,13 +23,13 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/synthesized_audio.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido para a aula ministrada por [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) na plataforma a [DIO](https://dio.me) em parceria com o [Santander Open Academy](https://www.linkedin.com/company/santander-open-academy/).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -45,8 +45,23 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+<p align="center">
+    Prompts do podcast
+</p>
+
+<div align="center">
+    <Prompts src="src/prompts/chatgpt.md" controls title="Prompt Chatgpt"></audio>
+</div>
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
+<p align="center">
+    Prompts do podcast
+</p>
+
+<div align="center">
+    <Prompts src="src/prompts/midjourney.md" controls title="Prompt MidJourney"></audio>
+</div>
+
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -71,29 +86,21 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/66793153?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspHemerson Abreu<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/azimutalx">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/hemersonabreu/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/hemersonabreu/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Hemerson Abreu](https://github.com/azimutalx)
