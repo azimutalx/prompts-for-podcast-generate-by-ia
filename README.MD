@@ -18,13 +18,6 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="./output/synthesized_audio.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -45,23 +38,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-<p align="center">
-    Prompts do podcast
-</p>
-
-<div align="center">
-    <Prompts src="./src/prompts/chatgpt.md" controls title="Prompt Chatgpt"></audio>
-</div>
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
-<p align="center">
-    Prompts do podcast
-</p>
-
-<div align="center">
-    <Prompts src="./src/prompts/midjourney.md" controls title="Prompt MidJourney"></audio>
-</div>
-
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -75,9 +53,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Use os prompts de roteiro no [chatgpt](./src/prompts/chatgpt.md)
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `[midjourney]`(./src/prompts/midjourney.md)
+
 
 ## 👨‍💻 Expert
 
