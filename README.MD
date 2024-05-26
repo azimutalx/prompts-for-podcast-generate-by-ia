@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/synthesized_audio.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/synthesized_audio.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -50,7 +50,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 </p>
 
 <div align="center">
-    <Prompts src="src/prompts/chatgpt.md" controls title="Prompt Chatgpt"></audio>
+    <Prompts src="./src/prompts/chatgpt.md" controls title="Prompt Chatgpt"></audio>
 </div>
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
@@ -59,7 +59,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 </p>
 
 <div align="center">
-    <Prompts src="src/prompts/midjourney.md" controls title="Prompt MidJourney"></audio>
+    <Prompts src="./src/prompts/midjourney.md" controls title="Prompt MidJourney"></audio>
 </div>
 
 - Capcut para tratar aúdio e adicionar sons de fundo
